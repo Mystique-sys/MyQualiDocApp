@@ -1,0 +1,13 @@
+export const textSuccess = "#2bb786";
+export const success = "#006a42";
+export const btnBg = "#ff4081";
+export const bgColor = "#27265F";
+export const textColor = "#27265F";
+export const danger = "#D82121";
+export const warning = "#DBC231";
+export const info = "#1D8BBA";
+export const primary = "#2E3D97";
+export const violet ="#7A00F9";
+export const cvStyle = "rgba(0,0,0,0.09)";
+export const infoLight = '#2f95dc';
+export const light = '#fff';
